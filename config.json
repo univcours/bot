@@ -1,6 +1,7 @@
-
 {
-    "status": "on",
-    "profit_target": 10.0,
-    "mode": "ai"
+  "status": "on",
+  "symbol": "XAUUSD",
+  "profit_target": 5.0,
+  "mode": "ai",
+  "trail_drop": 2.0
 }
