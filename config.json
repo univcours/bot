@@ -1,7 +1,6 @@
 {
-  "status": "on",
-  "symbol": "XAUUSD",
-  "profit_target": 5.0,
-  "mode": "ai",
-  "trail_drop": 2.0
+  "command_id": 101,
+  "action": "UPDATE_TARGETS",
+  "target_buy": 10.5,
+  "target_sell": 8.0
 }
