@@ -1,0 +1,10 @@
+{
+  "command_id": 102,
+  "action": "UPDATE_CUSTOM_TARGETS",
+  "global_target_buy": 5.0,
+  "global_target_sell": 5.0,
+  "custom_targets": {
+    "123456789": 15.0,
+    "987654321": 2.5
+  }
+}
